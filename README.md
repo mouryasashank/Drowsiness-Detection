@@ -6,3 +6,4 @@ We used Machine Learning and Computer Vision to detect the drowsiness.
 ![](/sample.png)
 
 When we our eyes looks normally the output image looks like this.
+Blue Border indicates the face. And Green Borders indicates the eyes.
